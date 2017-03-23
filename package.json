@@ -1,5 +1,5 @@
 {
-  "name": "OAuth_Signature_Creator",
+  "name": "oauth_signature_builder",
   "version": "1.0.0",
   "description": "Lti tool to create oauth signature",
   "main": "index.js",
