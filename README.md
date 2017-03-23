@@ -1,15 +1,15 @@
-OAuth_Signature_Creator
+oauth_signature_builder
 =========
 
 A small library that build oauth_signature for lti usage
 
 ## Installation
 
-  `npm install @yangliu57670838/OAuth_Signature_Creator`
+  `npm install @yangliu57670838/oauth_signature_builder`
 
 ## Usage
 
-    var OAuth_Signature_Creator = require('@yangliu57670838/OAuth_Signature_Creator');
+    var OAuth_Signature_Creator = require('@yangliu57670838/oauth_signature_builder');
 
     const signature = this.signatureBuilder(req, secret);
     
