@@ -1,0 +1,15 @@
+{
+  "name": "OAuth_Signature_Creator",
+  "version": "1.0.0",
+  "description": "Lti tool to create oauth signature",
+  "main": "index.js",
+  "author": "Australian Keypath Education Development Team, March 2017",
+  "license": "Yang Liu",
+  "scripts": {},
+  "dependencies": {
+    "crypto": "^0.0.3",
+    "express": "^4.15.2",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {}
+}
